@@ -9,7 +9,7 @@ Sistema da M2C Digital responsável processar as mensagens das campanhas.
 Após baixar o projeto na sua máquina, rode o seguinte comando para instalar as dependencias do mesmo:
 
 ```
-yarn
+go mod tidy
 ```
 
 ### Docker Compose
