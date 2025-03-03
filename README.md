@@ -22,7 +22,7 @@ docker-compose up -d
 
 ### Variaveis de ambiente
 
-No projeto, há um arquivo chamado ```.env-example``` em que as informações devem ser copiadas para um arquivo chamado ```.env```.
+No projeto, há um arquivo chamado ```cmd/.env-example``` em que as informações devem ser copiadas para um arquivo chamado ```cmd/.env```.
 
 Caso necessário, poderá alterar as informações do .env para apontar para sua aplicação, banco de dados ou ferramenta.
 
